@@ -1,0 +1,50 @@
+nav{
+		margin: 0;
+		padding: 0;
+		background-color: #333;
+	    overflow: hidden;
+	}
+	a{
+		float: left;
+		font-size: 22px;
+		padding: 10px;
+
+	}
+	nav a{
+		color: white;
+		text-align: center;
+		padding: 14px;
+		text-decoration-line: none;
+	}
+	nav a:hover{
+	background-color:#111
+}
+
+#inphotos{
+	width: 300px;
+	height: 300px;
+	margin: 50px;
+	float: left;
+	border: 2px solid grey;
+	background-color: ;
+}
+img{
+	width: 300px;
+	height: 300px;
+}
+
+.content{background-color: #f5f5f0;
+	text-align: center;
+	t
+
+}
+
+form input{
+	width: 200px;
+	height: 20px;
+	border-radius: 5px;
+}
+
+textarea{
+	border-radius: 5px;
+}
